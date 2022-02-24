@@ -1,0 +1,56 @@
+18
+user1 role1
+user1 role2
+user1 role4
+user2 role2
+user2 role3
+user3 role1
+user4 role1
+user4 role2
+user4 role3
+user4 role5
+user5 role3
+user5 role2
+user5 role5
+user6 role1
+user6 role2
+user6 role3
+user6 role4
+user6 role5
+11
+role1 p1 rw
+role1 p1 r
+role1 p1 w
+role1 p2 r
+role1 p2 wx
+role2 p3 r
+role3 p1 x
+role3 p3 w
+role3 p3 x
+role4 p1 d
+role5 p4 rwx
+24
+user1 p1
+user1 p2
+user1 p3
+user1 p4
+user2 p1
+user2 p2
+user2 p3
+user2 p4
+user3 p1
+user3 p2
+user3 p3
+user3 p4
+user4 p1
+user4 p2
+user4 p3
+user4 p4
+user5 p1
+user5 p2
+user5 p3
+user5 p4
+user6 p1
+user6 p2
+user6 p3
+user6 p4
